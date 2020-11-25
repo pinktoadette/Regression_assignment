@@ -1,3 +1,3 @@
 # linear_regression
 
-Regression assignments
+Regression assignments. Partial assignments.
